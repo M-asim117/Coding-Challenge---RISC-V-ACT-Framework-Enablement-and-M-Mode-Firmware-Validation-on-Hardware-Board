@@ -1,1 +1,0 @@
-# Coding-Challenge---RISC-V-ACT-Framework-Enablement-and-M-Mode-Firmware-Validation-on-Hardware-Board
